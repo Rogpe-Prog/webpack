@@ -1,0 +1,8 @@
+body {
+    background-color: #404;
+    background-image: url(../images/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50vh;
+    background-size: 180px;
+}
